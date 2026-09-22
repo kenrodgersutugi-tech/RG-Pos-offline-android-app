@@ -1,0 +1,7 @@
+{
+  "name": "RG POS",
+  "description": "Offline-first POS and business management system. Sell. Track. Grow. Offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
